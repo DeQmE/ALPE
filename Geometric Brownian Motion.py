@@ -151,8 +151,8 @@ def generate_synthetic_lob(
     logger.info(f"Saved: {output_file} with {n_samples} samples")
 
 def main():
-    """Generate synthetic LOB data for 5 stocks."""
-    for stock_id in range(1, 6):
+    """Generate synthetic LOB data for 4 stocks."""
+    for stock_id in range(1, 5):
         try:
             generate_synthetic_lob(stock_id=stock_id)
         except Exception as e:
