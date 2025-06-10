@@ -34,4 +34,13 @@ Here is an overview of the key files in this repository:
 ├── requirements.txt            # List of dependencies for the project  
 ```
 
+## Synthetic LOB Dataset
+
+### Disclaimer
+The synthetic Limit Order Book (LOB) dataset and Geometric Brownian Motion (GBM) 
+code emulate NASDAQ Level 1 LOB characteristics for reproducibility, as per our 
+submission. The data and code use generic parameters (e.g., μ = 0.05, σ = 0.25) 
+and are independent of real NASDAQ data. 
+
+
 
