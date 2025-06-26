@@ -37,10 +37,8 @@ Here is an overview of the key files in this repository:
 ## Synthetic LOB Dataset
 
 ### Disclaimer
-The synthetic Limit Order Book (LOB) dataset and Geometric Brownian Motion (GBM) 
-code emulate NASDAQ Level 1 LOB characteristics for reproducibility, as per our 
-submission. The data and code use generic parameters (e.g., μ = 0.05, σ = 0.25) 
-and are independent of real NASDAQ data. 
+The synthetic Limit Order Book (LOB) dataset files (SYNTH_BAC, SYNTH_ENPH, SYNTH_EQIX, SYNTH_GL) and Geometric Brownian Motion (GBM) 
+code emulate NASDAQ Level 1 LOB characteristics. The data and code use generic parameters and are independent of real NASDAQ data. 
 
 
 
